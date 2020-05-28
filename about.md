@@ -8,7 +8,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 <!--<span class="image right"> </span> -->
-<img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;float:right" />
+<img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;float" />
 
 <!-- One -->
 <section id="one">
@@ -61,7 +61,7 @@ nav-menu: true
 <div class="box">
 	Relevant Courses:
 	<ul>
-	<li>GPA: 4.0: Artificial Intelligence, Machine Learning & Data Mining, Neural Networks, Statistical Learning (99%), CS Project (100%)</li>
+	<li>GPA: 4.0: Artificial Intelligence, Machine Learning & Data Mining, Neural Networks, Statistical Learning (99%), Computer Science Capstone Project (100%)</li>
 	<li>GPA: 3.7: Parallel Programming, Advanced Statistical Learning, Database Systems, Statistical Experimental Design </li>
 	</ul>
 	Languages & Aptitudes: <b>Python, R, C, SQL, Java, Hive,</b> Nvidia CUDA (GPU Programming), sk-learn, pandas, numpy, TensorFlow, Keras, AWS, Linux Shell
