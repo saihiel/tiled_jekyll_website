@@ -9,14 +9,13 @@ nav-menu: true
 <div id="main" class="alt">
 <!--<span class="image right"> </span> 
 <img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" />-->
-
+<!-- One -->
+<section id="one">
+	<div class="inner">
 
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-		<!-- One -->
-<section id="one">
-	<div class="inner">
 		<header class="major">
 			<h1>Saihiel Bakshi</h1>
 		</header>
