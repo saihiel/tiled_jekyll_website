@@ -24,14 +24,13 @@ nav-menu: true
 <p>Introduction to me..... Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non.</p>
   
 <div class="row">
-<div class="4u 12u$(medium)">
+	<div class="4u 12u$(medium)">
 		<h3>Education</h3>
-		<div class="box">
-			<p>
-				<ul class="icons"><li><i class="icon fa-graduation-cap"><span class="label">University of Toronto (2016 - 2020)</span></i></li><ul/>  
-					Honors BSc Computer Science, Statistics & Applied Probabilities, Mathematics
-			</p>
-		</div>
+			<div class="box">
+			<ul class="icons"> <li class="icon fa-graduation-cap"><span class="label">University of Toronto (2016 - 2020)</span> </li>
+			<ul/>
+			Honors BSc Computer Science, Statistics & Applied Probabilities, Mathematics
+			</div>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Awards</h3>
