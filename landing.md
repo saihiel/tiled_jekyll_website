@@ -1,10 +1,11 @@
 ---
-title: Landing
+title: Portfolio
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: A collection of some of my projects.
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
+
 
 <!-- Main -->
 <div id="main">
@@ -13,26 +14,26 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>My Data Oasis</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>This portfolio of projects began as a welcome oasis amidst long nights of studing at university. There after budding from a productive distraction to a showcase of my passion for solving challenging problems.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="https://github.com/saihiel/Classifying-Shoe-Pairs" class="image">
+			<img src="{% link assets/images/Shoes.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Classifying Shoes For The Visually Impaired</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Have you ever looked at two shoes and wondered whether they come from the same pair or not? Me neither. But unfortunately, not everyone has this privledge. People with visual impairments face similar challenges daily. In this project I designed and developed a model that can function as the underlying model for a system that deals with this issue. This end-to-end project deals with preprocessing the image data, creating models with two different convolutional architectures, training the neural networks (including tuning hyperparameters) and evaluating the models.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/saihiel/Classifying-Shoe-Pairs" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
