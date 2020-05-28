@@ -4,7 +4,7 @@ subtitle: by Saihiel Bakshi
 email: bakshisaihiel@gmail.com
 description: A creative curation of my personal projects, blogs and interests.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "saihielbakshi.com"# the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: Saihiel Bakshi
 street_address: 
 city: Toronto
