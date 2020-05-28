@@ -22,7 +22,7 @@ nav-menu: true
 <h2 id="content">Data Scientist</h2>
 	</div>
 	<div class="6u$ 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" /></span>
+	<img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" />
 	</div>
 </div>
 <hr class="major" />
