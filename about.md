@@ -7,6 +7,8 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
+	
+<span class="image right"><img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" /> </span>
 
 <!-- One -->
 <section id="one">
@@ -14,12 +16,10 @@ nav-menu: true
 		<header class="major">
 			<h1>Saihiel Bakshi</h1>
 		</header>
-		<span class="image right"><img src="{% link assets/images/profile.png %}" alt="" style="width:159px;height:238px;" /> </span>
 		
 <!-- Content -->
 <h2 id="content">Data Scientist</h2>
 
-		
 <hr class="major" />
 <p>Introduction to me..... Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non.</p>
   
