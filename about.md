@@ -61,7 +61,7 @@ nav-menu: true
 <div class="box">
 	Relevant Courses:
 	<ul>
-	<li>GPA: 4.0: Artificial Intelligence, Machine Learning & Data Mining, Neural Networks, Statistical Learning (99%), Computer Science Capstone Project (100%)</li>
+	<li>GPA: 4.0: Artificial Intelligence, Machine Learning & Data Mining, Neural Networks, Statistical Learning (99%), CSc Capstone Project (100%)</li>
 	<li>GPA: 3.7: Parallel Programming, Advanced Statistical Learning, Database Systems, Statistical Experimental Design </li>
 	</ul>
 	Languages & Aptitudes: <b>Python, R, C, SQL, Java, Hive,</b> Nvidia CUDA (GPU Programming), sk-learn, pandas, numpy, TensorFlow, Keras, AWS, Linux Shell
