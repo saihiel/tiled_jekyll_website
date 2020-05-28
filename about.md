@@ -16,9 +16,9 @@ nav-menu: true
 		<header class="major">
 			<h1>Saihiel Bakshi</h1>
 		</header>
+		<span class="image fit"><img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" /></span>
 <!-- Content -->
 <h2 id="content">Data Scientist</h2>
-<span class="image fit"><img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" /></span>
 <hr class="major" />
 <p>I am a Data Scientist passionate about Machine Learning, Statistical Modeling and Big Data. I am often found reading research papers or trading the Japanese Yen. I enjoy solving challenging problems with unorthodox solutions and treading the untrodden! </p>
   
