@@ -2,7 +2,7 @@
 title: Portfolio
 layout: landing
 description: A collection of some of my projects.
-image: assets/images/ds.jpg
+image: assets/images/ds2.jpg
 nav-menu: true
 ---
 
