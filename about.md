@@ -7,7 +7,7 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-<!--<span class="image right"> </span> 
+<!-- 
 <img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" />-->
 <!-- One -->
 <section id="one">
@@ -22,7 +22,7 @@ nav-menu: true
 <h2 id="content">Data Scientist</h2>
 	</div>
 	<div class="6u$ 12u$(small)">
-	<img src="{% link assets/images/profile_4.png %}" alt="" style="vertical-align:top" />
+	<span class="image right"><img src="{% link assets/images/profile_4.png %}" alt="" style="vertical-align:top" /></span>
 	</div>
 </div>
 <hr class="major" />
