@@ -10,15 +10,16 @@ nav-menu: true
 <!--<span class="image right"> </span> 
 <img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" />-->
 
-<!-- One -->
+
+<!-- Content -->
+<div class="row">
+	<div class="6u 12u$(small)">
+		<!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Saihiel Bakshi</h1>
 		</header>
-<!-- Content -->
-<div class="row">
-	<div class="6u 12u$(small)">
 <h2 id="content">Data Scientist</h2>
 	</div>
 	<div class="6u$ 12u$(small)">
