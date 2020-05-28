@@ -26,7 +26,12 @@ nav-menu: true
 <div class="row">
 <div class="4u 12u$(medium)">
 		<h3>Education</h3>
-		<div class="box"><p>Studied at UofT</p></div>
+		<div class="box">
+			<p>
+				<ul class="icons"><li><i class="icon fa-graduation-cap"><span class="label">University of Toronto (2016 - 2020)</span></i></li><ul/>  
+					Honors BSc Computer Science, Statistics & Applied Probabilities, Mathematics
+			</p>
+		</div>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Awards</h3>
