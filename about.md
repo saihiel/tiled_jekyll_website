@@ -7,8 +7,8 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-<!--<span class="image right"> </span> -->
-<img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" />
+<!--<span class="image right"> </span> 
+<img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" />-->
 
 <!-- One -->
 <section id="one">
@@ -18,7 +18,7 @@ nav-menu: true
 		</header>
 <!-- Content -->
 <h2 id="content">Data Scientist</h2>
-
+<span class="image fit"><img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" /></span>
 <hr class="major" />
 <p>I am a Data Scientist passionate about Machine Learning, Statistical Modeling and Big Data. I am often found reading research papers or trading the Japanese Yen. I enjoy solving challenging problems with unorthodox solutions and treading the untrodden! </p>
   
@@ -61,7 +61,7 @@ nav-menu: true
 <div class="box">
 	Relevant Courses:
 	<ul>
-	<li>GPA: 4.0: Artificial Intelligence, Machine Learning & Data Mining, Neural Networks, Statistical Learning (99%), CSc Capstone Project (100%)</li>
+	<li>GPA: 4.0: Artificial Intelligence, Machine Learning & Data Mining, Neural Networks, Statistical Learning (99%), CS Capstone Project (100%)</li>
 	<li>GPA: 3.7: Parallel Programming, Advanced Statistical Learning, Database Systems, Statistical Experimental Design </li>
 	</ul>
 	Languages & Aptitudes: <b>Python, R, C, SQL, Java, Hive,</b> Nvidia CUDA (GPU Programming), sk-learn, pandas, numpy, TensorFlow, Keras, AWS, Linux Shell
