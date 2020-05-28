@@ -39,17 +39,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="https://github.com/saihiel/news_headlines" class="image">
+			<img src="{% link assets/images/news_headlines.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Generating News Headlines Using Autoencoders</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Writing a good news headline is an art. It requires a strong command over language to be able to grab the readers attention in a single sentence. In this project I created a model that takes an orginal news headline and generates a related but new one. This project focuses on the application of deep learning to natural language processing.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/saihiel/news_headlines" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
