@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Elements
-nav-menu: true
+layout:
+title:
+nav-menu: false
 ---
 
 <!-- Main -->
