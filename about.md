@@ -16,7 +16,6 @@ nav-menu: true
 		<header class="major">
 			<h1>Saihiel Bakshi</h1>
 		</header>
-		
 <!-- Content -->
 <h2 id="content">Data Scientist</h2>
 
@@ -27,8 +26,8 @@ nav-menu: true
 	<div class="4u 12u$(medium)">
 		<h3>Education</h3>
 			<div class="box">
-			<ul class="icons"> <li class="icon fa-graduation-cap"><span class="label">University of Toronto (2016 - 2020)</span> </li>
-			<ul/>
+			<ul class="icons"> <li class="icon fa-graduation-cap"><span class="label">University of Toronto (2016 - 2020) </span></li>
+			</ul>
 			Honors BSc Computer Science, Statistics & Applied Probabilities, Mathematics
 			</div>
 	</div>
