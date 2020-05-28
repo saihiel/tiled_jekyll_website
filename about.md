@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 <!-- Content -->
 <h2 id="content">Data Scientist</h2>
-<span class="image right"><img src="{% link assets/images/profile.png %}" alt="" />
+<span class="image right"><img src="{% link assets/images/profile.png %}" alt="" style="width:159px;height:238px;" /></span>
 <hr class="major" />
 <p>Introduction to me... Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non.</p>
   
