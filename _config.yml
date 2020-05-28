@@ -1,0 +1,35 @@
+# site settings
+title: Forty
+subtitle: by Saihiel Bakshi
+email: bakshisaihiel@gmail.com
+description: A creative curation of my personal projects, blogs and interests.
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Saihiel Bakshi
+street_address: 
+city: Toronto
+state: Ontario
+zip_code: 
+country: Canada
+phone: (647) 561-6069
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/saihiel
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/saihiel-bakshi/
+pinterest_url:
+slack_url:
+twitter_url: 
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
