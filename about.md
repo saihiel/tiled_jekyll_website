@@ -8,7 +8,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 <!--<span class="image right"> </span> -->
-<img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;float" />
+<img src="{% link assets/images/profile_1.png %}" alt="" style="width:228px;height:340px;" />
 
 <!-- One -->
 <section id="one">
